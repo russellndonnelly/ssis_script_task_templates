@@ -1,5 +1,5 @@
 # ssis_script_task_templates
-Updated Renci.SshNet.dll to 2023.0.1 from 2020.0.2
+Updated Renci.SshNet.dll to 2023.0.0 from 2020.0.2
 
 Package sftp_send_receive.dtsx has script that performs connection to sftp server with username, password and port level security. An normal SSIS package connection cannot use credentials
 
